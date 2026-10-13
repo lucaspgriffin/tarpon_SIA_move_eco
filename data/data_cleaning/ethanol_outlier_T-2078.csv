@@ -1,0 +1,2 @@
+ID,ID_raw,Type,d13C,d15N,C,N,CN_ratio_original,source,note
+T-2078,2078,ethanol,-27.18,14.16,32.26,10.29,3.1,SIA_tarpon_foraging/data/raw_data_read_in/Copy of SIA_Tarpon_Oct_1_2023_full_edited.csv,ethanol clip removed as an outlier in original/code/script_1_tar_sia_data.R (line 154); frozen clip T-2078E is kept

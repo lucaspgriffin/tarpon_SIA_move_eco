@@ -1,0 +1,7 @@
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+~$*
+output/fin/rasters/
+output/blood/rasters/

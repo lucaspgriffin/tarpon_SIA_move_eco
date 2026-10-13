@@ -1,0 +1,16 @@
+tissue,lat_interval,threshold_km,consistent
+fin,75%,50,19
+fin,75%,75,21
+fin,75%,100,21
+fin,75%,150,21
+fin,75%,200,22
+fin,95%,50,12
+fin,95%,75,12
+fin,95%,100,12
+fin,95%,150,14
+fin,95%,200,18
+plasma,75%,50,12
+plasma,75%,75,14
+plasma,75%,100,16
+plasma,75%,150,17
+plasma,75%,200,18

@@ -1,0 +1,20 @@
+capture_region,cell_region,mean_probability,max_probability
+N. Gulf of Mexico,CW FL,0.56,0.81
+N. Gulf of Mexico,N. Gulf of Mexico,0.59,0.91
+N. Gulf of Mexico,S FL,0.73,0.84
+CW FL,CW FL,0.61,0.82
+CW FL,N. Gulf of Mexico,0.41,0.87
+CW FL,S FL,0.79,0.86
+E FL,CW FL,0.65,0.69
+E FL,E FL,0.64,0.81
+E FL,Mid Atlantic,0.48,0.76
+E FL,S FL,0.72,0.77
+S FL,CW FL,0.56,0.74
+S FL,E FL,0.63,0.85
+S FL,Mid Atlantic,0.04,0.39
+S FL,N. Gulf of Mexico,0.29,0.74
+S FL,S FL,0.75,0.84
+Mid Atlantic,CW FL,0.4,0.58
+Mid Atlantic,E FL,0.58,0.75
+Mid Atlantic,Mid Atlantic,0.31,0.94
+Mid Atlantic,S FL,0.54,0.67
